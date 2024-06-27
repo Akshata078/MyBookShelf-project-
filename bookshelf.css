@@ -1,0 +1,27 @@
+.additional-books-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    margin: 1% 0 2% 0;
+    padding: 5px;
+}
+.additional-books-container button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #465a6e;
+    color: white;
+    font-weight: 900;
+    border: none;
+    border-radius: 10px;
+}
+.additional-books-container button:hover {
+    background-color: #0056b3;
+}
+#additionalBooks{
+    margin: 0 10%;
+}
+
+button:hover {
+    background-color: #218838;
+}
